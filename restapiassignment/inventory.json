@@ -1,0 +1,18 @@
+[
+    {
+        "name" :"Apples",
+        "quantity" :3
+    },
+    {
+        "name" :"Oranges",
+        "quantity" :7
+    },
+    {
+        "name" : "Pomogranates",
+        "quantity" : 55
+    },
+    {
+        "name": "Grapes",
+        "quantity" : 60
+    }
+]
